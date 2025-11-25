@@ -80,8 +80,6 @@ abs(board[i] - board[j]) != abs(i - j)                # Diagonal
 ### A* Search
 ```
 f(n) = g(n) + h(n)
-g(n) = number of assigned rows
-h(n) = number of conflicts
 ```
 
 * Complete
