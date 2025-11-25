@@ -89,7 +89,7 @@ h(n) = number of conflicts
 * High memory usage
 
 
-### 5️Greedy Best-First Search
+### Greedy Best-First Search
 
 * Prioritizes states with minimum conflicts `h(n)`
 * Very fast
